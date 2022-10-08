@@ -12,6 +12,11 @@ text-align: center;
     color: rgb(33, 169, 233);
     font-size: 30px;
 }
+#imagem1{
+    width: 50%;
+    text-align: left;
+}
+
 #contato {
     margin: 75%;
     text-align: left;
