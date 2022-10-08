@@ -2,7 +2,7 @@ h1 {
 text-align: center;    
 }
 
-h2{
+h2 {
     text-align: center;
 }
 
@@ -12,6 +12,6 @@ h2{
 }
 
 #fonte2 {
- color: rgb(33, 169, 233);
- font-size: 30px;
+    color: rgb(33, 169, 233);
+    font-size: 30px;
 }
